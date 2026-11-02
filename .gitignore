@@ -1,0 +1,14 @@
+﻿
+# Visual Studio
+.vs/
+[Bb]in/
+[Oo]bj/
+packages/
+*.user
+*.suo
+
+# Databases and backups
+*.db
+*.db-*
+*.bak
+MigrationBackup/
